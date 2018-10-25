@@ -46,7 +46,7 @@ Distributed under the MIT license. See LICENSE for more information.
 https://github.com/stevopritchard/gif-search-engine/blob/master/LICENSE
 
 #Contributing
-Fork it (https://github.com/yourname/yourproject/fork)
+Fork it (https://github.com/stevopritchard/gif-search-engine)
 Create your feature branch (git checkout -b feature/fooBar)
 Commit your changes (git commit -am 'Add some fooBar')
 Push to the branch (git push origin feature/fooBar)
